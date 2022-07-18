@@ -35,7 +35,7 @@ Visualização de valores de orçamentos.
 
 ## **Como instalar o programa**
 
-A partir do compilador c++, clone o repositorio com o  comando abaixo:
+###A partir do compilador c++, clone o repositorio com o  comando abaixo
 git clone git@github.com:cesarsouza13/Projeto-PDS2.git
 Abra a pasta pelo comando abaixo:
 cd Projeto-PDS2-main
